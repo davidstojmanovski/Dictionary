@@ -1,2 +1,2 @@
 # Dictionary
-A project written in C that emulates an online dictionary. This project implements Multithreading so it can read and storage a large quantity of words and files fast. 
+A project written in C that emulates an online dictionary. This project implements Multithreading so it can read and storage a large quantity of words and files fast. With command _add_*folder_name* you can add a folder full of .txt files which the program will consume. Typing a letter or multiple letters will return all the words that start with those letters. Command _stop_ will stop the program. If words are added in a file that has allready been added, the newly added words will automatically be added into the database of words.
